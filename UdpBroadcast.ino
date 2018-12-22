@@ -5,8 +5,8 @@
 
 const int8_t ledPin = LED_BUILTIN;
 
-const char* const ssid = "Zyxel15"; // Your network SSID (name)
-const char* const pass = "atomiatomi10"; // Your network password
+const char* const ssid = "ssid"; // Your network SSID (name)
+const char* const pass = "passwd"; // Your network password
 
 static const uint8_t D0   = 16;
 static const uint8_t D1   = 5;
